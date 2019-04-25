@@ -6,6 +6,7 @@
 }
 #btn{
   background-image: linear-gradient(to right, black , red 140%);
+  color: white;
 }
 #cps{
   width: 40%;
