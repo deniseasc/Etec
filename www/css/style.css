@@ -14,3 +14,55 @@
   margin-top: 55%;
   margin-left: 55%; 
 }
+.container
+{
+  width: 95%;
+  text-align: center;
+}
+
+.rr
+{
+  text-align: center;
+  margin-top: 30px;
+}
+
+h1
+{
+  font-family: verdana;
+  font-size: 35px;
+  font-style: bolder;
+}
+
+#pingif
+{
+  width: 70%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+#btnInicio{
+  height: 50px;
+  font-family: verdana;
+  font-size: 20px;
+  font-style: bolder;
+}
+
+#btnMapa
+{
+  font-family: verdana;
+  font-size: 20px;
+  font-style: bolder;
+  margin-top: 10px;
+  height: 50px;
+}
+
+#map{
+  height: 400px;
+  text-align: center;
+  width: 100%;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.cc{
+  text-align: center;
+}
