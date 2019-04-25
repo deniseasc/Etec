@@ -14,19 +14,18 @@
   margin-top: 55%;
   margin-left: 55%; 
 }
+#cps2{
+  width: 40%;
+  height: 40%;
+  margin-top: 90%;
+  margin-left: 55%; 
+}
 //sergio
 .container
 {
   width: 95%;
   text-align: center;
 }
-
-.rr
-{
-  text-align: center;
-  margin-top: 30px;
-}
-
 h1
 {
   font-family: verdana;
@@ -56,14 +55,7 @@ h1
   width: 100%;
   border-radius: 5px 5px 5px 5px;
 }
-
-.cc{
-#logo{
-  margin-top: 30px;
-  margin-left: -10px;
-  height: 60px;
-  text-align: center;
-}
+//Jean
 #curso{
   margin-top: 150px;
   margin-left: 30px;
