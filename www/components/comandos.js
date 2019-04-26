@@ -1,6 +1,4 @@
 $(document).on("click", "#btnMapa", function(){
-  
-  
 
   var onSuccess = function(position){
         L.mapquest.key = 'Tb4mQvnfzr5SSkAldnGNtLUzzpQTaaaL';
@@ -18,10 +16,8 @@ $(document).on("click", "#btnMapa", function(){
   checkConnection();
 });
 
-
-
 //Verificar conexão;
-function checkConnection() {
+/*function checkConnection() {
     var networkState = navigator.connection.type;
 
     var states = {};
@@ -43,4 +39,4 @@ function checkConnection() {
     {
       navigator.notification.beep(1);
     }
-}
+}*/

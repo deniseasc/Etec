@@ -1,4 +1,4 @@
-/**/
+/*Denise*/
 #adolpho{
   margin-top: 10%;
   width: 100%;
@@ -8,19 +8,23 @@
   background-image: linear-gradient(to right, black , red 140%);
   color: white;
 }
+#btnmap{
+  background-image: linear-gradient(to right, black , red 140%);
+  color: white;
+}
 #cps{
   width: 40%;
   height: 40%;
-  margin-top: 55%;
+  margin-top: 70%;
   margin-left: 55%; 
 }
 #cps2{
   width: 40%;
   height: 40%;
-  margin-top: 90%;
+  margin-top: 50%;
   margin-left: 55%; 
 }
-//sergio
+/*Sergio*/
 .container
 {
   width: 95%;
@@ -51,11 +55,10 @@ h1
 
 #map{
   height: 400px;
-  text-align: center;
   width: 100%;
-  border-radius: 5px 5px 5px 5px;
+  margin-top: 40%;
 }
-//Jean
+/*Jean*/
 #curso{
   margin-top: 150px;
   margin-left: 30px;
