@@ -17,7 +17,7 @@ $(document).on("click", "#btnMapa", function(){
 });
 
 //Verificar conexão;
-/*function checkConnection() {
+function checkConnection() {
     var networkState = navigator.connection.type;
 
     var states = {};
@@ -39,4 +39,4 @@ $(document).on("click", "#btnMapa", function(){
     {
       navigator.notification.beep(1);
     }
-}*/
+}
